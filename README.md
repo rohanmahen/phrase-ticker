@@ -61,12 +61,7 @@ jupyter lab src/main.ipynb
 
 Follow the notebook instructions for detailed steps on data collection, phrase generation, dataset construction, and export.
 
-## Features
 
-- **Automated Data Collection**: Scrapes up-to-date company information from Wikipedia.
-- **Creative Phrase Generation**: Leverages AI to produce contextually relevant phrases for each company.
-- **Efficient Data Processing**: Implements parallel processing for speedy dataset generation.
-- **Ready for ML Applications**: Formats the dataset for immediate use with Hugging Face `datasets`.
 
 ## Contributing & Usage
 
