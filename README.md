@@ -1,7 +1,5 @@
 # phrase-ticker Dataset Generator
 
-## Overview
-
 The phrase-ticker Dataset Generator is a Python project, designed to link S&P 500 company tickers with relevant natural language phrases. Utilizing GPT-4, this tool aims to enhance stock ticker extraction from textual data, supporting financial NLP tasks like sentiment analysis and entity recognition. It's crafted for easy integration with the Hugging Face `datasets` library, making it an invaluable asset for machine learning applications in finance.
 
 ## Contents
